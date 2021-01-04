@@ -1,0 +1,203 @@
+.eludom doog yrev a t'nsi ylbaborp ti ,gnineppah si tahw dnatsrednu ot setunim wef a naht erom sekat ti fI .ekil kool yeht tahw fo aedi doog a evah uoy litnu seludom doog fo selpmaxe uoy wohs ot wonk uoy sredoc decneirepxe erom ksA
+sgniht ynam oot gniod ylbaborp si ti ,seod ti fI .selif tpircSavaJ fo lluf sredlof detsen fo level eno naht erom evah t'ndluohs eludom A
+tpircSavaJ fo senil 051 dnuora naht regnol eb ton dluohs eludom a ni selif laudividnI
+melborp eno no sesucof dna llams si eludom doog A
+!ereh tsil ot hcaorppa cificeps siht ot stifeneb emosewa ynam oot era erehT .mpn dna buhtig ot ti hsilbup dna nosj.egakcap dna stset ,emdaer nwo s'ti ti evig stcejorp elpitlum ssorca desu eb nac taht edoc emos evah uoy fI
+eriuqer evitaler a gnisu siht daol nac uoY .stropxe.eludom gnisu meht esopxe dna elif rehtona otni meht evom ,hguone gib teg )emeht emas eht ot detaler snoitcnuf fo puorg a ro( noitcnuf ruoy nehW
+noitcnuf a otni edoc desu yldetaeper gnivom yb tratS
+
+:eludom a gnitaerc nehw bmuht fo selur emos era ereH
+
+.)'eziser-egami'(eriuqer ekil eludom enoladnats a otni meht evom yllanif neht dna )'sj.srepleh-otohp/.'(eriuqer ekil eriuqer evitaler a gnisu ni daol uoy taht elif rehtona otni meht gnivom ot etaudarg neht ,elif eht fo mottob eht ot snoitcnuf eht gnivom yb trats nac uoY
+
+.od ot gniyrt si margorp eht tahw fo taem eht ot teg ot snoitcnuf eht fo liated eht lla hguorht edaw ot gnivah sremocwen tuohtiw dootsrednu ylisae erom eb nac wolf smargorp eht taht os yaw eht fo tuo snoitcnuf gnivom si lleh kcabllac gnidiova fo tcepsa tnatropmi tsom ehT
+.gnirotcafer htiw spleh dna ,edoc ruoy rof IPA cilbup detnemucod dna elbats a etaerc ot uoy secrof ,stset etirw ,srorre eldnah uoy spleh osla siht ekil seceip llams otni edoc ruoy gnittilpS .edoc ruoy dnatsrednu ot deriuqer daol evitingoc eht ecuder ot eludom a ni meht ecalp dna snoitcnuf elbasuer etaerC
+.siht htiw uoy pleh ot dradnats ekil retnil a esU .skcabllac ruoy fo eno yreve ni rorre elgnis yreve eldnaH
+'dlof eht woleb' snoitcnuf evom ot egatnavda ruoy ot gnitsioh noitcnuf esU
+margorp ruoy fo level pot eht ta meht ecalp dna seman meht eviG .snoitcnuf tsen t'noD
+yrammuS
+
+.rorre deldnahnu na htiw edoc ruoy ni kcabllac yreve uoy wohs lliw ti dna redlof edoc ruoy ni dradnats $ nur si od ot evah uoy llA .dradnats dellac si esu ot eno tselpmis ehT .srorre kcabllac eldnah ot rebmemer uoy pleh ot derugifnoc eb osla nac sretnil edoC
+
+.rorre eht erongi ylisae erom dna } { )elif( eliFeldnah noitcnuf ekil edoc etirw dluoc uoy tnemugra dnoces eht saw ti fI .srorre ruoy eldnah ot rebmemer ot uoy segaruocne taht noitnevnoc elpmis a si rorre eht eb tnemugra tsrif eht gnivaH
+} 
+edoc ruoy ni `elif` esu dna no eunitnoc ,esiwrehto //   
+)rorre ,'rorre na saw ereht ,hohU'(rorre.elosnoc nruter )rorre( fi   
+{ )elif ,rorre( eliFeldnah noitcnuf 
+
+)eliFeldnah ,'tsixe/ton/seoD/'(eliFdaer.sf 
+
+)'sf'(eriuqer = sf rav 
+
+.rorre na rof devreser syawla si kcabllac eht ot tnemugra tsrif eht erehw elyts sj.edoN eht si srorre eldnah ot yaw ralupop tsom eht skcabllac htiW
+
+.gnineppah syawla meht no nalp ot evah uoy os ,neppah srorre eseht nehw wonk reven nac uoy taht uoy llet lliw repoleved decneirepxe ynA .eruliaf ot eud troba ro yllufsseccus etelpmoc neht dna ,dnuorgkcab eht ni gnihtemos od dna ffo og ,dehctapsid teg taht sksat htiw gnilaed noitinifed yb era uoy skcabllac htiw gnilaed nehW .elbats edoc ruoy gnikam tuoba si eno siht tub ,elbadaer edoc ruoy gnikam tuoba yliramirp era selur owt tsrif ehT
+
+.srorre fo ssalc tsal siht sserdda ot tnaem ylno si noitces sihT .cte noitcennoc krowten on ,eruliaf evird drah ,snoissimrep elif dilavni ekil sgniht yb desuac srorre mroftalp ,)pu ssem ot gnihtemos desuac taht gub a dah tub nar edoc eht( remmargorp eht yb desuac srorre emitnur ,)margorp eht nur tsrif ot yrt uoy nehw thguac yllausu( remmargorp eht yb desuac srorre xatnys :srorre fo sepyt tnereffid era erehT
+
+rorre elgnis yreve eldnaH .3
+mpn ro buhtig no derahs eb ylisae nac dna edoc gnitacilpud tuohtiw secalp rehto ni desu teg nac redaolpumrof
+snoitcnuf redaolpumrof eht fo lla hguorht daer ot gnivah yb nwod deggob teg t'now yeht -- dnatsrednu ot srepoleved wen rof reisae
+
+:stifeneb gniwollof eht sah dna edoc fo senil owt ylno si noitacilppa ruo woN
+timbus.redaolpUmrof = timbusno.)'mrof'(rotceleSyreuq.tnemucod
+)'redaolpumrof'(eriuqer = redaolpUmrof rav
+
+:won skool edoc cificeps noitacilppa ruo woh si ereH !ti esu dna ti eriuqer ot deen tsuj ew )deifiresworb gnieb retfa gat tpircs a sa egap eht ni dedaol si ti dna( sj.redaolpumrof evah ew taht woN
+
+.stpircs ro selif noitarugifnoc xelpmoc eriuqer t'nseod dna dnatsrednu ot elpmis yrev si ,erehwyreve skrow ti esuaceb seludom fo elyts siht ekil etiuq I .yfiresworb gnisu resworb eht dna nortcelE ,edon ni skrow hcihw metsys eludom sj.edon eht fo elpmaxe na si tib stropxe.eludom ehT
+}
+ydob = eulav.egasseMsutats  
+rre = eulav.egasseMsutats nruter )rre( fi  
+)'sutats.'(rotceleSyreuq.tnemucod = egasseMsutats rav  
+{ )ydob ,esnopser ,rre( esnopseRtsop noitcnuf
+
+}
+)esnopseRtsop ,}  
+"TSOP" :dohtem    
+,eman :ydob    
+,"daolpu/moc.elpmaxe//:ptth" :iru    
+{(tseuqer  
+eulav.)'tupni'(rotceleSyreuq.tnemucod = eman rav  
+{ )tnevEtimbus( timbuSmrof noitcnuf
+
+timbuSmrof = timbus.stropxe.eludom
+
+:erofeb morf snoitcnuf owt ruo sniatnoc taht sj.redaolpumrof dellac elif wen a si ereH
+
+:)htob ni skrow taht edoc ro( edoc revres ro edoc resworb rehtie rof skrow taht nrettap eludom a wohs ll'I .selif fo elpuoc a otni pu ti gnittilps yb eludom a otni ti nrut dna evoba morf edoc etalpreliob eht tuo ekat s'teL
+
+".ereht og t'nod uoy fi lleh kcabllac otni teg t'nac uoY .gniht reggib a od taht seludom rehto otni meht elbmessa dna ,gniht eno od hcae taht seludom llams etirW" :)tcejorp sj.edon eht fo( reteulhcS caasI etouq oT .)seirarbil aka( seludom gnitaerc fo elbapac si enoynA :trap tnatropmi tsom eht si sihT
+
+eziraludoM .2
+
+.gnitsioh noitcnuf ot sknaht si sihT .elif eht fo mottob eht ta denifed era ereh snoitaralced noitcnuf eht taht etoN
+}
+ydob = eulav.egasseMsutats  
+rre = eulav.egasseMsutats nruter )rre( fi  
+)'sutats.'(rotceleSyreuq.tnemucod = egasseMsutats rav  
+{ )ydob ,esnopser ,rre( esnopseRtsop noitcnuf
+
+}
+)esnopseRtsop ,}  
+"TSOP" :dohtem    
+,eman :ydob    
+,"daolpu/moc.elpmaxe//:ptth" :iru    
+{(tseuqer  
+eulav.)'tupni'(rotceleSyreuq.tnemucod = eman rav  
+{ )tnevEtimbus( timbuSmrof noitcnuf
+
+timbuSmrof = timbusno.)'mrof'(rotceleSyreuq.tnemucod
+
+:margorp ruo fo level pot eht ot snoitcnuf eht evom nac ew woN
+seman rieht yb meht ecnerefer dna snoitcnuf eht evom ot uoy swolla
+"suomynona" fo daetsni seman noitcnuf lautca ecnerefer taht secartkcats teg lliw uoy neppah snoitpecxe nehw
+seman noitcnuf evitpircsed eht ot sknaht daer ot reisae edoc sekam
+
+:stifeneb etaidemmi emos sah dna ysae repus si snoitcnuf gniman ees nac uoy sA
+}
+)}  
+ydob = eulav.egasseMsutats    
+rre = eulav.egasseMsutats nruter )rre( fi    
+)'sutats.'(rotceleSyreuq.tnemucod = egasseMsutats rav    
+{ )ydob ,esnopser ,rre( esnopseRtsop noitcnuf ,}  
+"TSOP" :dohtem    
+,eman :ydob    
+,"daolpu/moc.elpmaxe//:ptth" :iru    
+{(tseuqer  
+eulav.)'tupni'(rotceleSyreuq.tnemucod = eman rav  
+{ )tnevEtimbus( timbuSmrof noitcnuf = timbusno.mrof
+)'mrof'(rotceleSyreuq.tnemucod = mrof rav
+
+!seman me evig s'teL .snoitcnuf suomynona owt sah edoc sihT
+}
+)}  
+ydob = eulav.egasseMsutats    
+rre = eulav.egasseMsutats nruter )rre( fi    
+)'sutats.'(rotceleSyreuq.tnemucod = egasseMsutats rav    
+{ )ydob ,esnopser ,rre( noitcnuf ,}  
+"TSOP" :dohtem    
+,eman :ydob    
+,"daolpu/moc.elpmaxe//:ptth" :iru    
+{(tseuqer  
+eulav.)'tupni'(rotceleSyreuq.tnemucod = eman rav  
+{ )tnevEtimbus( noitcnuf = timbusno.mrof
+)'mrof'(rotceleSyreuq.tnemucod = mrof rav
+
+:revres a ot tseuqer XAJA na ekam ot tseuqer-resworb sesu taht tpircSavaJ resworb yssem emos si ereH
+
+wollahs edoc ruoy peeK .1
+
+:selur eerht wollof ot deen ylno uoY
+
+!drah taht t'nsi edoc retteb gnitirw ylikcuL .secitcarp gnidoc roop yb desuac si lleh kcabllaC
+
+?lleh kcabllac xif I od woH
+etelpmoc sgniht nehw no desab dnuora spmuj ti ,mottob-ot-pot daer ton seod neppah sgniht hcihw ni redro ehT
+emit retal a ta od ot sgniht emos erots ot yaw a tsuj si kcabllac otohPeldnah ehT
+
+:stpecnoc tnatropmi owt etartsulli ot tnaem si elpmaxe sihT
+
+.si noitcennoc tenretnI eht tsaf woh no gnidneped emit gnol a ekat dluoc hcihw ,ksat sti gniod sehsinif otohPdaolnwod litnu nur t'now ti tuB .otohPdaolnwod otni kcabllac a sa dessap dna detaerc tsuj si ti ,tey dekovni ton si otohPeldnah eht taht etoN
+
+.tuo detnirp si 'detrats daolnwoD' yllanif dna ,kcabllac sti sa otohPeldnah eht dessap dna dekovni si noitcnuf otohPdaolnwod eht neht ,deralced si noitcnuf otohPeldnah eht tsriF .neppah sgniht rojam eerht elpmaxe siht nI .snur margorp a sa etucexe sgniht taht redro eht gnidnatsrednu si skcabllac dnatsrednu ot gniyrt nehw evah elpoep eldruh tseggib ehT
+)'detrats daolnwoD'(gol.elosnoc
+
+}
+)otohp ,'dehsinif daolnwoD'(gol.elosnoc esle  
+)rorre ,'!rorre daolnwoD'(rorre.elosnoc )rorre( fi  
+{ )otohp ,rorre( otohPeldnah noitcnuf
+
+)otohPeldnah ,'fig.tac/moc.staclooc//:ptth'(otohPdaolnwod
+
+.)gnorw tnew gnihtemos fi rorre na ro( otohp eht ni ssap dna ,etelpmoc si daolnwod eht nehw )'retal kcab uoy llac' .g.e( kcabllac ruoy nur lliw ti dna noitcnuf otohPdaolnwod eht ot ti evig uoY !kcabllac eht si sihT .noitcnuf a ni etelpmoc si daolnwod eht retfa nur dluohs taht edoc eht erots uoy ,daetsnI
+
+.hsinif ot daolnwod eht rof gnitiaw elihw )'kcolb' aka( esuap ot margorp ruoy tnaw t'nod uoy dna ,daolnwod ot emit gnol yrev a ekat thgim fig eht esac siht nI
+!'denifednu' si otohp //
+)'fig.tac/moc.staclooc//:ptth'(otohPdaolnwod = otohp rav
+
+.yawa thgir gnihtyna nruter t'nod skcabllac esu dna cnysa era taht snoitcnuf ,revewoH
+tuo detnirp steg 05 //
+)tluser(gol.elosnoc
+)01 ,5(srebmuNowTylpitlum = tluser rav
+
+:eulav nruter sti esu nac uoy noitcnuf lamron a llac uoy nehW
+
+.cte ,sesabatad ot gniklat ,selif gnidaer ,sgniht gnidaolnwod .g.e ,O/I gniod nehw desu ylno era skcabllac yllausU .'won thgir ton ,erutuf eht ni sneppah' ro 'emit emos sekat' snaem tsuj 'cnysa' aka ,'suonorhcnysa' drow ehT .tluser a ecudorp ot emit emos ekat skcabllac esu taht snoitcnuf ,snoitcnuf tsom ekil tluser emos gninruter yletaidemmi fo daetsnI .noitnevnoc a tsuj s'ti ,egaugnal tpircSavaJ eht ni 'kcabllac' a dellac gniht laiceps a t'nsi erehT .snoitcnuf tpircSavaJ gnisu rof noitnevnoc a fo eman eht tsuj era skcabllaC
+
+?skcabllac era tahW
+
+.tnereffid si tpircSavaJ ,nrael lliw uoy sA .elif eht nwod no os dna gninnur strats 2 enil no edoc eht erofeb hsinif lliw 1 enil no sneppah revetahw taht noitatcepxe eht si ereht nohtyP ro ybuR ,C ekil segaugnal rehto nI !ekatsim siht ekam elpoep fo stoL .mottob ot pot morf yllausiv sneppah noitucexe erehw yaw a ni tpircSavaJ etirw ot yrt elpoep nehw si lleh kcabllac fo esuac ehT
+
+.lleh kcabllac sa nwonk yletanoitceffa si sihT !keE ?dne eht ta )} eht lla dna epahs dimaryp eht eeS
+)}
+}  
+)}    
+)}      
+}        
+))siht(dnib.}          
+)}            
+)rre + ' :elif gnitirw rorrE'(gol.elosnoc )rre( fi              
+{ )rre(noitcnuf ,emanelif + '_' + htdiw + 'w' + tsed(etirw.)thgieh ,htdiw(eziser.siht            
+)thgieh + 'x' + thgieh + ' ot' + emanelif + ' gniziser'(gol.elosnoc            
+)tcepsa / htdiw(dnuor.htaM = thgieh            
+{ )xednIhtdiw ,htdiw( noitcnuf(hcaErof.shtdiw          
+)thgieh.seulav / htdiw.seulav( = tcepsa          
+)seulav + ' : ' + emanelif(gol.elosnoc          
+{ esle }        
+)rre + ' :ezis elif gniyfitnedi rorrE'(gol.elosnoc          
+{ )rre( fi        
+{ )seulav ,rre( noitcnuf(ezis.)emanelif + ecruos(mg      
+)emanelif(gol.elosnoc      
+{ )xednIelif ,emanelif( noitcnuf(hcaErof.selif    
+{ esle }  
+)rre + ' :selif gnidnif rorrE'(gol.elosnoc    
+{ )rre( fi  
+{ )selif ,rre( noitcnuf ,ecruos(riddaer.sf
+
+:siht ekil gnikool pu sdne edoc fo tol A .ylevitiutni thgir teg ot drah si ,skcabllac sesu taht tpircSavaJ ro ,tpircSavaJ suonorhcnysA
+?"lleh kcabllac" si tahW
+
+smargorp tpircSavaJ suonorhcnysa gnitirw ot ediug A
+
+lleH kcabllaC
