@@ -1,0 +1,10 @@
+{
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1"
+    },
+    "engines": {
+        "node": ">=8.0.0"
+    }
+}
